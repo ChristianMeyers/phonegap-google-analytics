@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.bluer.mobile"
+        version   = "1.0.7">
+        
+    <name>Google Analytics Plugin Example</name>
+
+    <description>
+        ...
+    </description>
+
+    <author href="http://phonegap.com" email="hello@bluer.com">
+        Bluer Inc
+    </author>
+
+    <gap:plugin name="com.adobe.plugins.gaplugin" version="2.3.0" />
+
+    <preference name="phonegap-version" value="3.1.0" />
+    <preference name="orientation" value="portrait" />
+    <preference name="target-device" value="universal" />
+    <preference name="fullscreen" value="false" />
+
+</widget>
